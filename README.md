@@ -1,5 +1,5 @@
 # AndroidChatSystem
-Used: Socket.io, Node JS, Android Studio, Heroku
+Used: Socket.io, Node JS, Java (Android Studio), Heroku
 
 Features: sending images, messages, ... user is typing, picking a username. 
 
